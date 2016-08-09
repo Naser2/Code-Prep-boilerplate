@@ -9,6 +9,6 @@
     <a href="https://twitter.com"> Follow me</a> on Twiter. 
   </p>
   <p>
-  send me <a href="#"> an email.</a> 
+  send me an<a href="#"> email.</a> 
   </p>
   </html>
